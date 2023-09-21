@@ -1,7 +1,7 @@
 # Physio Assignment
 
-In this assignment, we have implemented a login page with pre-defined credentials. When you click on the login button, it makes a request to the backend API, and upon successful login, it displays a graph using Chart.js.
-
+In this assignment, we have implemented a login page with pre-defined credentials. When you click on the login button, it makes a request to the backend API, and upon successful login, it stores the authentication token in the local storage. With this token, it retrieves and displays chart data using Chart.js.
+If you click on the logout button, the token will be removed from local storage, and you will be redirected back to the login page.
 
 
 ### `npm start`
@@ -43,9 +43,16 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+## Tech Stack
+html/css
+Typescript
+chart.js
+faker
+
 
 ## Frontend Deployment Link
-The deploy link of Registration Form : physio-assignment-phi.vercel.app/
+
+The deploy link of Registration Form : <strong><a href="physio-assignment-phi.vercel.app/">Physio Backend</a></strong>
 
 ## Backend Github
 
