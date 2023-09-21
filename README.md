@@ -52,7 +52,7 @@ faker
 
 ## Frontend Deployment Link
 
-The deploy link of Registration Form : <strong><a href="physio-assignment-phi.vercel.app/">Physio Backend</a></strong>
+The deploy link of Registration Form : <strong><a href="physio-assignment-phi.vercel.app/">frontend deployment link</a></strong>
 
 ## Backend Github
 
