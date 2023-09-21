@@ -1,10 +1,8 @@
 # Physio Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this assignment, we have implemented a login page with pre-defined credentials. When you click on the login button, it makes a request to the backend API, and upon successful login, it displays a graph using Chart.js.
 
-## Available Scripts
 
-In the project directory, you can run:
 
 ### `npm start`
 
@@ -44,6 +42,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## Frontend Deployment Link
+The deploy link of Registration Form : physio-assignment-phi.vercel.app/
 
 ## Backend Github
 
